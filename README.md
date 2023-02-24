@@ -4,3 +4,5 @@
 классификация -> https://disk.yandex.ru/i/Npggqa2VtyFYsg
 
 парфюм -> https://disk.yandex.ru/i/iFJPh8ytsplrIA
+
+факторы -> https://disk.yandex.ru/i/LcMnLZBZpIodxA
