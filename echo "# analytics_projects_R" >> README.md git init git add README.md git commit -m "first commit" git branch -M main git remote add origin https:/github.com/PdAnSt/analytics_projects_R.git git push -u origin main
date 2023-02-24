@@ -1,7 +1,0 @@
-echo "# analytics_projects_R" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/PdAnSt/analytics_projects_R.git
-git push -u origin main
